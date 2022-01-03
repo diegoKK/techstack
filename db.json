@@ -1,0 +1,39 @@
+{
+  "techstack": [
+    {
+      "id": "1",
+      "title": "HTML5",
+      "image": "/techstack/html_5.svg",
+      "width": "50px",
+      "height": "50px"
+    },
+    {
+      "id": "2",
+      "title": "Javascript + ES6",
+      "image": "/techstack/javascript.svg",
+      "width": "36px",
+      "height": "50px"
+    },
+    {
+      "id": "3",
+      "title": "CSS3",
+      "image": "/techstack/css3.svg",
+      "width": "37px",
+      "height": "50px"
+    },
+    {
+      "id": "4",
+      "title": "React + Native",
+      "image": "/techstack/react_native.svg",
+      "width": "51px",
+      "height": "50px"
+    },
+    {
+      "id": "5",
+      "title": "Vue.js",
+      "image": "/techstack/vue_js.svg",
+      "width": "51px",
+      "height": "50px"
+    }
+  ]
+}
